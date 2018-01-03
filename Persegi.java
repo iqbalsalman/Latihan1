@@ -3,7 +3,7 @@ class Persegi{
 		 Double  sisi = 50.0;
          Double luas = sisi*sisi/100; 
 
-		System.out.println("dengan sisi = " +sisi+ "dan luas = "+luas);
+		System.out.println("dengan sisi = " +sisi+" cm"+" Maka Luas  Persegi= "+luas+ " cm");
 
 	}
 }
